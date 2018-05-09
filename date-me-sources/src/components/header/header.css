@@ -1,0 +1,11 @@
+header {
+  background: linear-gradient(120deg, #FF512F 0%,#DD2476 100%);
+  height: 5rem;
+  width: 100%;
+}
+
+header > img {
+  height: 100%;
+  object-fit: contain;
+  width: 100%;
+}

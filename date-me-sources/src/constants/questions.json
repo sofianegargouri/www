@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Quel est ton prénom ?",
+    "type": "string"
+  },
+  {
+    "title": "Quel âge as-tu ?",
+    "type": "number"
+  },
+  {
+    "title": "Parle-moi un peu de toi 🙂",
+    "type": "text"
+  },
+  {
+    "title": "Fûmes-tu ? 🚬",
+    "type": "boolean"
+  },
+  {
+    "title": "Aimes-tu voyager ? ✈️",
+    "type": "boolean"
+  },
+  {
+    "title": "Comment puis-je te contacter ? 📱",
+    "type": "string"
+  }
+]
